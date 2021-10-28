@@ -1,7 +1,5 @@
 # Crypto Currency Application
 
-<<<<<<< HEAD
-=======
 I've created a very simple crypto currency application that is fetching Crypto Currency data from [CoinMarketCap Api](https://coinmarketcap.com/).
 
 Package for Network Request: [**http**](https://pub.dev/packages/http)
