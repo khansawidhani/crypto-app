@@ -1,7 +1,6 @@
 # Crypto Currency Application
 
-<<<<<<< HEAD
-=======
+
 I've created a very simple crypto currency application that is fetching Crypto Currency data from [CoinMarketCap Api](https://coinmarketcap.com/).
 
 Package for Network Request: [**http**](https://pub.dev/packages/http)
@@ -42,7 +41,3 @@ Mail Me: khansawidhani@gmail.com
 **Lisence:** under [MIT Lisence](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
 
-
-
-
->>>>>>> 78388751317bae742d057750a94116312a0f6b16
