@@ -47,6 +47,4 @@ app.*.map.json
 
 /lib/modal
 
-/lib/screens
-
 /lib/imports
