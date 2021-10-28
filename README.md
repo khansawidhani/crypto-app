@@ -38,9 +38,3 @@ Mail Me: khansawidhani@gmail.com
 (https://www.google.com/search?q=khansawidhani)
 
 **Lisence:** under [MIT Lisence](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
-
-
-
-
-
->>>>>>> 78388751317bae742d057750a94116312a0f6b16
