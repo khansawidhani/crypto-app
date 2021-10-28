@@ -44,8 +44,9 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.amber[700],
+        backgroundColor: Colors.cyan,
         title: const Text("CryptoCurrency", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),
         centerTitle: true,
       ),
